@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indioscoridisan00amatgoog/indioscoridisan00amatgoog_0889.png"; bbox 0 0 1812 2884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 157 365 731 437">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 157 365 731 437">
+     <span class='ocr_line' id='line_1_1' title="bbox 157 365 731 437; baseline -0.026 -4"><span class='ocrx_word' id='word_1_1' title='bbox 157 372 433 437; x_wconf 24' lang='lat' dir='ltr'><strong>*PVLEGIVMQ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 492 365 731 431; x_wconf 63' lang='grc' dir='ltr'><strong>δἸἰὸἓἩῙΆΕζΝ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 528 447 677 517">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 528 447 677 517">
+     <span class='ocr_line' id='line_1_2' title="bbox 528 447 677 517; baseline -0.034 -19"><span class='ocrx_word' id='word_1_3' title='bbox 528 447 677 517; x_wconf 81' lang='lat' dir='ltr'><strong>thiopicum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 160 1633 703 1697">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 160 1633 703 1697">
+     <span class='ocr_line' id='line_1_3' title="bbox 160 1633 703 1697; baseline -0.02 -2"><span class='ocrx_word' id='word_1_4' title='bbox 160 1642 242 1697; x_wconf 71' lang='lat' dir='ltr'>Libro</span> <span class='ocrx_word' id='word_1_5' title='bbox 254 1642 335 1692; x_wconf 80' lang='lat' dir='ltr'>tertio.</span> <span class='ocrx_word' id='word_1_6' title='bbox 525 1635 607 1689; x_wconf 76' lang='lat' dir='ltr'>Libro</span> <span class='ocrx_word' id='word_1_7' title='bbox 618 1633 703 1691; x_wconf 54' lang='lat' dir='ltr'><strong>tertioss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 152 1760 704 1952">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 152 1760 704 1952">
+     <span class='ocr_line' id='line_1_4' title="bbox 152 1760 704 1838; baseline -0.018 0"><span class='ocrx_word' id='word_1_8' title='bbox 152 1786 236 1838; x_wconf 61' lang='lat' dir='ltr'>‘Euan</span> <span class='ocrx_word' id='word_1_9' title='bbox 257 1760 429 1838; x_wconf 65' lang='grc' dir='ltr'><strong>ΧΧΧΠΙΙ,4</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 489 1797 491 1800; x_wconf 74' lang='grc'>’</span> <span class='ocrx_word' id='word_1_11' title='bbox 524 1776 704 1831; x_wconf 63' lang='grc' dir='ltr'><strong>Ἑηειτ.“Ι,ΙΧ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 623 1903 679 1952; baseline -0.018 1"><span class='ocrx_word' id='word_1_12' title='bbox 623 1903 638 1942; x_wconf 80' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_13' title='bbox 664 1917 679 1952; x_wconf 81' lang='lat'>4</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 910 2884">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 910 2884">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 910 2884; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 910 2884; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
